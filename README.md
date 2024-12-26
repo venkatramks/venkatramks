@@ -4,24 +4,30 @@ I am a 4th-semester student from the AI Department, passionate about building in
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 My Tech Stack  
 
-### Programming Languages  
+### 💻 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C%2B%2B-Programming-lightblue?style=flat-square&logo=cplusplus)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=flat-square&logo=javascript)
 
-### Frameworks & Libraries  
+---
+
+### 🛠️ **Frameworks & Libraries**  
 ![Django](https://img.shields.io/badge/Django-Framework-green?style=flat-square&logo=django&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Library-orange?style=flat-square&logo=tensorflow)  
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=flat-square&logo=next.js)
 
-### DevOps & Tools  
+---
+
+### 🗂️ **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-Tool-blue?style=flat-square&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-blue?style=flat-square&logo=kubernetes&logoColor=white)  
 ![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=flat-square&logo=apachekafka)
 
-### Design & UI  
+---
+
+### 🎨 **Design & UI**  
 ![SVG](https://img.shields.io/badge/SVG-Design-red?style=flat-square&logo=svg)
 
 ---
@@ -39,7 +45,7 @@ I am a 4th-semester student from the AI Department, passionate about building in
 
 Feel free to connect with me or explore my repositories for collaborations, feedback, or learning opportunities:  
 
-- **Email:** venkatram.ks@gmail.com
+- **Email:** venkatram.ks@gmail.com  
 
 ---
 
