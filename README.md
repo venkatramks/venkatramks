@@ -23,22 +23,5 @@ Welcome to my GitHub! I am K S Venkatram, a passionate developer and AI enthusia
 
 ---
 
-## Projects
-
-Here are a few key highlights from my work:
-
-1. **AI-Driven Fraud Detection (CAFI):**  
-   A hybrid fraud detection system using contextual AI, graph neural networks, and supervised-unsupervised learning.
-
-2. **Music Recommendation System:**  
-   A graph-based approach to recommending music using user preferences and traversal algorithms.
-
-3. **Online Quiz Platform:**  
-   Built a dynamic quiz system using AVL and Splay trees to manage question difficulty levels.
-
-4. **Hybrid ARIMA-LSTM Forecasting:**  
-   Developed a time series forecasting model combining statistical and neural network approaches.
-
----
 
 Feel free to explore my repositories and connect with me for collaborations, feedback, or learning opportunities!
