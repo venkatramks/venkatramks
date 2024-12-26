@@ -1,5 +1,14 @@
 # K S Venkatram's Portfolio
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Next.js](https://img.shields.io/badge/Next.js-13.4-black?logo=next.js)
+![Django](https://img.shields.io/badge/Django-4.2-green?logo=django)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
+![Learning](https://img.shields.io/badge/Currently_Learning-C%2B%2B-lightgrey?logo=cplusplus)
+![Coursera](https://img.shields.io/badge/Coursera-Learning-blue?logo=coursera)
+
 Welcome to my GitHub! I am K S Venkatram, a passionate developer and AI enthusiast driven by curiosity, problem-solving, and innovation. I enjoy exploring cutting-edge technologies and building solutions that make a real-world impact.
 
 ---
@@ -15,13 +24,18 @@ Welcome to my GitHub! I am K S Venkatram, a passionate developer and AI enthusia
 
 ## Skills and Expertise
 
-- **Programming Languages:** Python, C++, JavaScript, SQL
-- **AI and Machine Learning:** LSTM, GNN, ADMM-based optimization, hybrid AI techniques
-- **Web Development:** Next.js, Django, Docker, Kubernetes
-- **Data Structures and Algorithms:** Trees (AVL, Splay), Graphs, MST, BFS/DFS
-- **Visualization Tools:** LIME, SVG design
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![C++](https://img.shields.io/badge/-C%2B%2B-lightblue?logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?logo=database)
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow)
+![Kafka](https://img.shields.io/badge/-Kafka-black?logo=apachekafka)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
+![Django](https://img.shields.io/badge/-Django-green?logo=django)
 
 ---
+
 
 
 Feel free to explore my repositories and connect with me for collaborations, feedback, or learning opportunities!
