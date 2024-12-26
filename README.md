@@ -1,29 +1,28 @@
 # K S Venkatram's Portfolio
 
-I am a 4th-semester student from the AI Department, passionate about building intelligent systems, exploring cutting-edge technologies, and solving challenging problems. Here's an overview of my tech stack and projects:
+I am a 4th-semester student from the AI Department, passionate about building intelligent systems, exploring cutting-edge technologies, and solving challenging problems. Here's an overview of my tech stack:
 
 ---
 
 ## 🛠️ Tech Stack  
 
 ### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-17%2B-lightblue?style=flat-square&logo=cplusplus)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)  
-![SQL](https://img.shields.io/badge/SQL-Database%20Management-blueviolet?style=flat-square&logo=database)
+![Python](https://img.shields.io/badge/Python-Programming-blue?style=flat-square&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-Programming-lightblue?style=flat-square&logo=cplusplus)  
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=flat-square&logo=javascript)
 
-### Frameworks & Tools  
-![Next.js](https://img.shields.io/badge/Next.js-13.4-black?style=flat-square&logo=next.js)  
-![Django](https://img.shields.io/badge/Django-4.2-green?style=flat-square&logo=django&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=flat-square&logo=docker&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow)
+### Frameworks & Libraries  
+![Django](https://img.shields.io/badge/Django-Framework-green?style=flat-square&logo=django&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Library-orange?style=flat-square&logo=tensorflow)  
+![Next.js](https://img.shields.io/badge/Next.js-Framework-black?style=flat-square&logo=next.js)
 
-### DevOps & Infrastructure  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1.24+-blue?style=flat-square&logo=kubernetes&logoColor=white)  
-![Apache Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=flat-square&logo=apachekafka)
+### DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-Tool-blue?style=flat-square&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-blue?style=flat-square&logo=kubernetes&logoColor=white)  
+![Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=flat-square&logo=apachekafka)
 
-### Design Tools  
-![SVG](https://img.shields.io/badge/SVG-Scalable%20Vector%20Graphics-red?style=flat-square&logo=svg)
+### Design & UI  
+![SVG](https://img.shields.io/badge/SVG-Design-red?style=flat-square&logo=svg)
 
 ---
 
@@ -36,12 +35,11 @@ I am a 4th-semester student from the AI Department, passionate about building in
 
 ---
 
-
 ## 📫 Contact Me  
 
 Feel free to connect with me or explore my repositories for collaborations, feedback, or learning opportunities:  
 
-- **Email:** venkatram.ks@gmail.com 
+- **Email:** ksvenkatram@example.com  
 
 ---
 
