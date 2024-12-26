@@ -1,35 +1,29 @@
 # K S Venkatram's Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status Badge">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack%20Dev-blueviolet?style=for-the-badge" alt="Focus Badge">
-  <img src="https://img.shields.io/badge/Learning-C%2B%2B-orange?style=for-the-badge&logo=cplusplus">
-</p>
+I am a 4th-semester student from the AI Department, passionate about building intelligent systems, exploring cutting-edge technologies, and solving challenging problems. Here's an overview of my tech stack and projects:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-17%2B-lightblue?style=for-the-badge&logo=cplusplus"></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript"></td>
-    <td><img src="https://img.shields.io/badge/SQL-Database%20Management-blueviolet?style=for-the-badge&logo=database"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Next.js-13.4-black?style=for-the-badge&logo=next.js"></td>
-    <td><img src="https://img.shields.io/badge/Django-4.2-green?style=for-the-badge&logo=django&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Docker-20.10-blue?style=for-the-badge&logo=docker&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow"></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Kubernetes-1.24+-blue?style=for-the-badge&logo=kubernetes&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/Kafka-Streaming-black?style=for-the-badge&logo=apachekafka"></td>
-    <td><img src="https://img.shields.io/badge/SVG-Scalable%20Vector%20Graphics-red?style=for-the-badge&logo=svg"></td>
-    <td><img src="https://img.shields.io/badge/Coursera-Learning-blue?style=for-the-badge&logo=coursera"></td>
-  </tr>
-</table>
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-17%2B-lightblue?style=flat-square&logo=cplusplus)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)  
+![SQL](https://img.shields.io/badge/SQL-Database%20Management-blueviolet?style=flat-square&logo=database)
+
+### Frameworks & Tools  
+![Next.js](https://img.shields.io/badge/Next.js-13.4-black?style=flat-square&logo=next.js)  
+![Django](https://img.shields.io/badge/Django-4.2-green?style=flat-square&logo=django&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=flat-square&logo=docker&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow)
+
+### DevOps & Infrastructure  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1.24+-blue?style=flat-square&logo=kubernetes&logoColor=white)  
+![Apache Kafka](https://img.shields.io/badge/Kafka-Streaming-black?style=flat-square&logo=apachekafka)
+
+### Design Tools  
+![SVG](https://img.shields.io/badge/SVG-Scalable%20Vector%20Graphics-red?style=flat-square&logo=svg)
 
 ---
 
@@ -47,7 +41,7 @@
 
 Feel free to connect with me or explore my repositories for collaborations, feedback, or learning opportunities:  
 
-- **Email:** venkatram.ks@gmail.com  
+- **Email:** venkatram.ks@gmail.com 
 
 ---
 
