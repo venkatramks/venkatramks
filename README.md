@@ -52,7 +52,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
 
 <div align="center">
   <a href="https://leetcode.com/venkatramks/">
-    ![](https://leetcard.jacoblin.cool/KS Venkatram?site=cn)
+    ![](https://leetcard.jacoblin.cool/user8715FB?site=cn)
   </a>
 </div>
 
