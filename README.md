@@ -51,10 +51,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
     -   **Solved:** 16 Easy, 1 Medium, 0 Hard
 
 <div align="center">
-  <a href="https://leetcode.com/venkatramks/">
-    ![](https://leetcard.jacoblin.cool/venkatramks?site=cn)
-  </a>
-</div>
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/venkatramks?theme=transparent)
 
 ---
 
