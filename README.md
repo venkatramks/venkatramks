@@ -33,19 +33,12 @@ I am a 4th-semester student from the AI Department, passionate about building in
 
 ---
 
-### 🎨 **Design & UI**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svg/svg-original.svg" alt="SVG" title="SVG" width="40" style="margin: 5px;"/>
-</div>
-
----
-
 ## 🌟 About Me
 
 - **🔍 Problem Solver:** I specialize in developing efficient, user-centric systems, combining precision and adaptability.
 - **💻 Tech Explorer:** Skilled in AI, machine learning, data structures, optimization, and full-stack development.
 - **🎓 Lifelong Learner:** Continuously learning new skills through platforms like Coursera and experimenting with cutting-edge tools.
-- **⚙️ Hands-On Developer:** Proficient in building end-to-end solutions, from backend logic to frontend design.
+- **⚙️ Hands-On Developer:** Proficient in building end-to-end solutions, from backend logic to frontend development.
 
 ---
 
@@ -55,6 +48,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
 
 -   **Email:** venkatram.ks@gmail.com
 -   **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
+    - **Solved:** 16 Easy, 1 Medium, 0 Hard
 
 <div align="center">
   <img src="https://i.imgur.com/aXhM2eM.png" alt="LeetCode Stats" style="margin-top: 10px; width: 600px;"/>
