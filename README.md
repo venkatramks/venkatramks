@@ -48,10 +48,12 @@ Feel free to connect with me or explore my repositories for collaborations, feed
 
 -   **Email:** venkatram.ks@gmail.com
 -   **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
-    - **Solved:** 16 Easy, 1 Medium, 0 Hard
+    -   **Solved:** 16 Easy, 1 Medium, 0 Hard
 
 <div align="center">
-  [![LeetCode Stats](https://leetcode-card.vercel.app/api?username=venkatramks&theme=dark&hide_solved_count=false&hide_ranking=false)](https://leetcode.com/venkatramks/)
+  <a href="https://leetcode.com/venkatramks/">
+    ![LeetCode Stats](https://img.shields.io/badge/LeetCode-17%20Solved-green)
+  </a>
 </div>
 
 ---
