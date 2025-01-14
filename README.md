@@ -57,11 +57,9 @@ Feel free to connect with me or explore my repositories for collaborations, feed
 -   **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Total%2017%20%7C%20Easy%2016%20%7C%20Medium%201-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" style="margin-top: 10px;"/>
+  <img src="https://img.shields.io/badge/LeetCode-Easy%2016%20%7C%20Medium%201%20%7C%20Hard%200-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" style="margin-top: 10px;"/>
 </div>
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Total%2017%20%7C%20Easy%2016%20%7C%20Medium%201-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" style="margin-top: 10px;"/>
-</div>
+
 ---
 
 <p align="center">
