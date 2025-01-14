@@ -53,9 +53,15 @@ I am a 4th-semester student from the AI Department, passionate about building in
 
 Feel free to connect with me or explore my repositories for collaborations, feedback, or learning opportunities:
 
-- **Email:** venkatram.ks@gmail.com
-- **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
+-   **Email:** venkatram.ks@gmail.com
+-   **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
 
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Total%2017%20%7C%20Easy%2016%20%7C%20Medium%201-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" style="margin-top: 10px;"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-Total%2017%20%7C%20Easy%2016%20%7C%20Medium%201-green?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Stats" style="margin-top: 10px;"/>
+</div>
 ---
 
 <p align="center">
