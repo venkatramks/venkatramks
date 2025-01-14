@@ -51,7 +51,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
     - **Solved:** 16 Easy, 1 Medium, 0 Hard
 
 <div align="center">
-  <img src="https://leetcode-card.vercel.app/api?username=venkatramks&theme=dark&hide_solved_count=false&hide_ranking=false" alt="LeetCode Stats" style="margin-top: 10px; width: 600px;"/>
+  [![LeetCode Stats](https://leetcode-card.vercel.app/api?username=venkatramks&theme=dark&hide_solved_count=false&hide_ranking=false)](https://leetcode.com/venkatramks/)
 </div>
 
 ---
