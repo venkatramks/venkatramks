@@ -47,8 +47,8 @@ I am a 4th-semester student from the AI Department, passionate about building in
 Feel free to connect with me or explore my repositories for collaborations, feedback, or learning opportunities:
 
 -   **Email:** venkatram.ks@gmail.com
--   **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
-    -   **Solved:** 16 Easy, 1 Medium, 0 Hard
+
+    
 
 
  ![Leetcode Stats](https://leetcard.jacoblin.cool/user8715FB?theme=transparent)
