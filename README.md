@@ -57,7 +57,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
 -   **LeetCode:** [https://leetcode.com/venkatramks/](https://leetcode.com/u/user8715FB/)
 
 <div align="center">
-  <img src="https://i.imgur.com/68tU5f6.png" alt="LeetCode Stats" style="margin-top: 10px; width: 500px;"/>
+  <img src="YOUR_LEETCODE_STATS_IMAGE_URL_HERE" alt="LeetCode Stats" style="margin-top: 10px; width: 500px;"/>
 </div>
 
 ---
