@@ -54,6 +54,7 @@ I am a 4th-semester student from the AI Department, passionate about building in
 Feel free to connect with me or explore my repositories for collaborations, feedback, or learning opportunities:
 
 - **Email:** venkatram.ks@gmail.com
+- **LeetCode:** [https://leetcode.com/venkatram/](https://leetcode.com/venkatram/)
 
 ---
 
