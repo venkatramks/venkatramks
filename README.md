@@ -52,7 +52,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
 
 <div align="center">
   <a href="https://leetcode.com/venkatramks/">
-    <img src="https://leetcode-card.vercel.app/api?username=venkatramks&theme=dark&hide_solved_count=false&hide_ranking=false" alt="LeetCode Stats" style="margin-top: 10px; width: 600px;"/>
+    ![](https://leetcard.jacoblin.cool/KS Venkatram?site=cn)
   </a>
 </div>
 
