@@ -1,6 +1,6 @@
 # K S Venkatram's Portfolio
 
-I am a 4th-semester student from the AI Department, passionate about building intelligent systems, exploring cutting-edge technologies, and solving challenging problems. Here's an overview of my tech stack:
+I am a 5th-semester student from the AI Department, passionate about building intelligent systems, exploring cutting-edge technologies, and solving challenging problems. Here's an overview of my tech stack:
 
 ---
 
