@@ -170,11 +170,7 @@ Feel free to connect with me or explore my repositories for collaborations, feed
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
----
-
 <p align="center">
-  <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=social" alt="GitHub Stars">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=social" alt="GitHub Followers">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
