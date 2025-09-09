@@ -119,16 +119,16 @@ const venkatram = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkatram&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatram&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venkatramks&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatramks&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatram&theme=tokyonight" alt="venkatram" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatramks&theme=tokyonight" alt="venkatram" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=venkatram&theme=tokyonight&row=1&column=7" alt="venkatram" />
+  <img src="https://github-profile-trophy.vercel.app/?username=venkatramks&theme=tokyonight&row=1&column=7" alt="venkatram" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
