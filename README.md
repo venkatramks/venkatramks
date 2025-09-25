@@ -105,7 +105,7 @@ I'm a 5th-semester AI student who approaches coding like a strategic game - ever
         <br><strong>Express</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind" width="65" height="65" />
         <br><strong>Tailwind CSS</strong>
       </td>
       <td align="center" width="96">
@@ -254,7 +254,11 @@ const venkatram = {
 ## 📈 Current Season Performance
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&bg_color=0f2027&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=⚽%20My%20Coding%20Journey%20-%20Goals%20Scored%20This%20Season!&theme=react-dark" width="100%"/>
+  <img src="https://ghchart.rshah.org/00ff41/venkatramks" alt="GitHub Contribution Chart" width="100%"/>
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+  <br>
+  <p><strong>⚽ Every green square is a goal scored in my coding journey! Watch the ball move through my contributions! ⚽</strong></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
