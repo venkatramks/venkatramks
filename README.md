@@ -1,4 +1,4 @@
-# K S Venkatram's Digital Portfolio ⚽
+# K S Venkatram's Digital Stadium ⚽
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
@@ -13,7 +13,7 @@
 ## 🎯 Game Plan & Formation
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="200">
 </div>
 
 I'm a 5th-semester AI student who approaches coding with strategic precision and creative problem-solving. My passion lies in architecting intelligent systems and developing solutions that combine technical excellence with innovative thinking.
@@ -256,8 +256,6 @@ const venkatram = {
 <div align="center">
   <img src="https://ghchart.rshah.org/004d98/venkatramks" alt="GitHub Contribution Chart" style="background-color: #0d1117; padding: 20px; border-radius: 10px;" width="100%"/>
   <br><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-  <br>
   <p><strong>⚽ Every contribution square represents progress in my coding journey! ⚽</strong></p>
 </div>
 
