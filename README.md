@@ -5,7 +5,7 @@
   
   <h2>🏆 AI Developer | Problem Solver | Code Architect</h2>
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+the+Field+of+Innovation!+⚽;5th+Semester+AI+Student;Building+Next-Gen+Intelligent+Systems+🤖;Ready+to+Score+Big+in+Tech!+🚀)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Welcome+to+the+Field+of+Innovation!+⚽;I+am+K+S+Venkatram+AI+Learner;Building+Next-Gen+Intelligent+Systems+🤖;Ready+to+Score+Big+in+Tech!+🚀)
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -83,7 +83,7 @@ I'm a 5th-semester AI student who approaches coding like a strategic game - ever
         <br><strong>React</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
         <br><strong>Node.js</strong>
       </td>
       <td align="center" width="96">
