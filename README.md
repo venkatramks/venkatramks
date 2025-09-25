@@ -83,33 +83,33 @@ I'm a 5th-semester AI student who approaches coding like a strategic game - ever
         <br><strong>React</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
         <br><strong>Node.js</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="65" height="65" />
         <br><strong>Next.js</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="65" height="65" />
         <br><strong>Django</strong>
       </td>
     </tr>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
         <br><strong>TensorFlow</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="65" height="65" />
         <br><strong>Express</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="65" height="65" />
         <br><strong>Tailwind CSS</strong>
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
         <br><strong>Bootstrap</strong>
       </td>
     </tr>
@@ -254,7 +254,7 @@ const venkatram = {
 ## 📈 Current Season Performance
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&bg_color=0f2027&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=⚽%20My%20Coding%20Journey%20-%20Goals%20Scored%20This%20Season!&theme=react-dark" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
@@ -277,9 +277,12 @@ const venkatram = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; 
-  <img src="https://user-images.githubusercontent.com/74038190/213844269-7d879268-884f-481b-a026-ab72d30ac0d7.png" width="50px" /> &nbsp; 
-  <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
+  
+  <h3>⚽ Thanks for visiting my Digital Stadium! ⚽</h3>
+  <h4>🚀 Let's team up and score big in the world of technology! 🚀</h4>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41,0099ff&height=80&section=footer&animation=fadeIn"/>
 </div>
 
 <div align="center">
