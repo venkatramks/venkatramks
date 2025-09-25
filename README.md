@@ -254,9 +254,11 @@ const venkatram = {
 ## 📈 Current Season Performance
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/004d98/venkatramks" alt="GitHub Contribution Chart" style="background-color: #0d1117; padding: 20px; border-radius: 10px;" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=false&hide_border=true&custom_title=My%20Coding%20Activity%20-%20GitHub%20Style" width="100%"/>
   <br><br>
-  <p><strong>⚽ Every contribution square represents progress in my coding journey! ⚽</strong></p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
+  <br>
+  <p><strong>⚽ Every commit is a goal scored in my development journey! ⚽</strong></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
