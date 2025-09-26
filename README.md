@@ -226,7 +226,7 @@ const venkatram = {
 ## 🥅 Coding Championship Stats
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50">
+  
   <br>
   <img src="https://leetcard.jacoblin.cool/user8715FB?theme=transparent&font=source%20code%20pro" alt="LeetCode Stats"/>
 </div>
