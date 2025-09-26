@@ -226,7 +226,7 @@ const venkatram = {
 ## 📈 Current Season Performance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/venkatramks/venkatramks/main/football-contribution.svg" width="800">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&theme=react&hide_border=true&bg_color=0d1117" width="100%"/>
 </p>
 
 <div align="center">
