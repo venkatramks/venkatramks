@@ -223,99 +223,16 @@ const venkatram = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## ⚽ Barcelona Contribution Stadium
+## 📈 Current Season Performance
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/venkatramks/venkatramks/main/football-contribution.svg" width="800">
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
   <br>
-  <h3>🔴🔵 GitHub Activity Dashboard 🔵🔴</h3>
-  <p><strong>🏆 Blaugrana Themed | 157 Contributions This Year 🏆</strong></p>
-</div>
-
-<div align="center">
-  
-  <!-- Barcelona Themed Contribution Visualization -->
-  <table>
-    <tr>
-      <td colspan="13" align="center">
-        <h4>🏟️ Monthly Coding Activity 🏟️</h4>
-      </td>
-    </tr>
-    <tr>
-      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th><th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th><th>Jul</th><th>Aug</th><th>Sep</th>
-    </tr>
-    <tr>
-      <td>⚫</td><td>🔴⚽</td><td>⚫</td><td>⚫</td><td>🟡⚽</td><td>⚫</td><td>⚫</td><td>🔵⚽</td><td>⚫</td><td>⚫</td><td>🔴⚽</td><td>🟡⚽</td><td>🔵⚽</td>
-    </tr>
-  </table>
-  
-  <!-- Custom Activity Graph with Barcelona Colors -->
-  ```
-  🏟️ K S VENKATRAM'S BARCELONA CONTRIBUTION STADIUM 🏟️
-  
-  Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Mon
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Tue  
-  ⬛⬛🟥⬛🟨⬛⬛⬛⬛⬛🟦⬛🟥  Wed ⚽
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Thu
-  ⬛⬛⬛⬛⬛⬛🟥⬛⬛🟨⬛🟦⬛  Fri ⚽
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Sat
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Sun
-
-  🔴 Barcelona Red (High Activity)    ⚽ Goal Scored!
-  🟡 Barcelona Gold (Medium Activity) ⚽ Assist Made!  
-  🔵 Barcelona Blue (Low Activity)    ⚽ Pass Completed!
-  ⬛ No Activity (Bench Time)        😴 Rest Day
-  
-  📊 SEASON STATS: 157 Total Contributions
-  🥅 GOALS: 42 High Activity Days
-  🎯 ASSISTS: 28 Medium Activity Days  
-  ⚽ PASSES: 87 Low Activity Days
-  ```
-  
-  <br>
-  
-  <!-- Barcelona Stadium Visualization using Emojis -->
-  <h4>🏟️ Camp Nou - Coding Stadium Layout 🏟️</h4>
-  
-  ```
-       🔴🔴🔴🔴 GOAL! HIGH ACTIVITY 🔴🔴🔴🔴
-    🟡🟡🟡🟡🟡🟡 MIDFIELD - MEDIUM 🟡🟡🟡🟡🟡🟡
-  🔵🔵🔵🔵🔵🔵🔵 DEFENSE - LOW ACTIVITY 🔵🔵🔵🔵🔵🔵🔵
-  ⬛⬛⬛⬛⬛⬛⬛⬛⬛ BENCH - REST DAYS ⬛⬛⬛⬛⬛⬛⬛⬛⬛
-  
-            ⚽ VENKATRAM ⚽ (#10)
-      🏆 Full-Stack AI Developer 🏆
-       Més que un Programador! 
-  ```
-  
-</div>
-
-<!-- Real GitHub Activity Graph with Barcelona Theme -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&bg_color=004D98&color=FCB900&line=A50044&point=FFFFFF&area=true&hide_border=true&custom_title=⚽%20Barcelona%20Contribution%20Stadium%20⚽" width="100%"/>
-</div>
-
-<div align="center">
-  
-  <!-- Legend with Barcelona Colors -->
-  <h4>🎨 Stadium Color Guide 🎨</h4>
-  
-  | Activity Level | Color | Barcelona Element | Coding Equivalent |
-  |:--------------:|:-----:|:-----------------:|:-----------------:|
-  | 🔥 **High** | 🔴 **Red** | Home Kit | Major Projects |
-  | ⚡ **Medium** | 🟡 **Gold** | Club Crest | Feature Updates |
-  | 💪 **Low** | 🔵 **Blue** | Away Kit | Bug Fixes |
-  | 😴 **Rest** | ⚫ **Black** | Off Season | Learning Days |
-  
-  <br>
-  
-  **🏟️ Stadium Stats:**
-  - 🎯 **Formation**: 4-3-3 (Frontend-Backend-AI)
-  - ⚽ **Captain**: Python 
-  - 🥅 **Goalkeeper**: System Architecture
-  - 🏆 **Trophy Room**: 157+ Contributions
-  
+  <p><strong>⚽ Every commit is a goal scored in my development journey! ⚽</strong></p>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
