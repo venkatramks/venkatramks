@@ -223,129 +223,99 @@ const venkatram = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## ⚽ Dynamic Contribution Stadium
+## ⚽ Barcelona Contribution Stadium
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="250">
   <br>
-  <h3>🏟️ Interactive GitHub Contribution Graph 🏟️</h3>
-  <p><strong>Barcelona Colors | Football Animations | Real-time Activity</strong></p>
+  <h3>🔴🔵 GitHub Activity Dashboard 🔵🔴</h3>
+  <p><strong>🏆 Blaugrana Themed | 157 Contributions This Year 🏆</strong></p>
 </div>
-
-```html
-<!-- Dynamic Contribution Graph with Barcelona Theme & Football Animations -->
-<div style="background: linear-gradient(135deg, #0a0e27 0%, #1a1a2e 50%, #16213e 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  
-  <div style="text-align: center; margin-bottom: 30px;">
-    <h2 style="background: linear-gradient(45deg, #A50044, #FCB900, #004D98); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 2.5rem; animation: glow 2s ease-in-out infinite alternate;">
-      ⚽ K S Venkatram's Digital Stadium ⚽
-    </h2>
-    <p style="color: #FCB900; font-size: 1.2rem;">🏆 GitHub Contribution Championship 🏆</p>
-  </div>
-
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; color: white;">
-    <div><strong>157 contributions in the last year</strong></div>
-    <div style="background: rgba(165, 0, 68, 0.2); border: 2px solid #A50044; color: white; padding: 8px 16px; border-radius: 8px;">2024</div>
-  </div>
-
-  <div style="background: rgba(0, 0, 0, 0.3); border-radius: 15px; border: 2px solid #A50044; padding: 20px; overflow-x: auto;">
-    <!-- Months Header -->
-    <div style="display: flex; margin-bottom: 10px; margin-left: 50px; color: #FCB900; font-weight: bold;">
-      <div style="width: 60px; text-align: center;">Sep</div>
-      <div style="width: 60px; text-align: center;">Oct</div>
-      <div style="width: 60px; text-align: center;">Nov</div>
-      <div style="width: 60px; text-align: center;">Dec</div>
-      <div style="width: 60px; text-align: center;">Jan</div>
-      <div style="width: 60px; text-align: center;">Feb</div>
-      <div style="width: 60px; text-align: center;">Mar</div>
-      <div style="width: 60px; text-align: center;">Apr</div>
-      <div style="width: 60px; text-align: center;">May</div>
-      <div style="width: 60px; text-align: center;">Jun</div>
-      <div style="width: 60px; text-align: center;">Jul</div>
-      <div style="width: 60px; text-align: center;">Aug</div>
-      <div style="width: 60px; text-align: center;">Sep</div>
-    </div>
-
-    <div style="display: flex;">
-      <!-- Days Column -->
-      <div style="display: flex; flex-direction: column; justify-content: space-around; margin-right: 10px; height: 110px; color: white;">
-        <div>Mon</div>
-        <div>Wed</div>
-        <div>Fri</div>
-      </div>
-
-      <!-- Contribution Grid -->
-      <div style="display: flex; gap: 3px; min-width: 800px;">
-        <!-- Week columns with contribution squares -->
-        <!-- Each square represents a day with different colors based on contribution count -->
-        <!-- Level 0 (no contributions): rgba(16, 33, 62, 0.8) -->
-        <!-- Level 1 (1-2 contributions): linear-gradient(45deg, #A50044, #7A0034) - Barcelona Red -->
-        <!-- Level 2 (3-5 contributions): linear-gradient(45deg, #FCB900, #DAA520) - Barcelona Gold -->
-        <!-- Level 3 (6-8 contributions): linear-gradient(45deg, #004D98, #0066CC) - Barcelona Blue -->
-        <!-- Level 4 (9+ contributions): linear-gradient(45deg, #A50044, #FCB900, #004D98) - Full Barcelona -->
-        
-        <!-- Football animations (⚽) appear on active contribution days -->
-        <div style="display: flex; flex-direction: column; gap: 3px;">
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-          <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 3px;"></div>
-        </div>
-        <!-- More week columns would continue here with actual contribution data -->
-      </div>
-    </div>
-  </div>
-
-  <!-- Legend -->
-  <div style="display: flex; align-items: center; justify-content: center; gap: 10px; margin-top: 20px; color: white; flex-wrap: wrap;">
-    <span>Less</span>
-    <div style="width: 12px; height: 12px; background: rgba(16, 33, 62, 0.8); border-radius: 2px;"></div>
-    <div style="width: 12px; height: 12px; background: linear-gradient(45deg, #A50044, #7A0034); border-radius: 2px;"></div>
-    <div style="width: 12px; height: 12px; background: linear-gradient(45deg, #FCB900, #DAA520); border-radius: 2px;"></div>
-    <div style="width: 12px; height: 12px; background: linear-gradient(45deg, #004D98, #0066CC); border-radius: 2px;"></div>
-    <div style="width: 12px; height: 12px; background: linear-gradient(45deg, #A50044, #FCB900, #004D98); border-radius: 2px;"></div>
-    <span>More</span>
-    <div style="margin-left: 20px; color: #FCB900;">⚽ = Active Coding Days</div>
-  </div>
-
-  <!-- Stadium Field Lines Effect -->
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; background: linear-gradient(90deg, transparent 48%, #A50044 49%, #A50044 51%, transparent 52%), linear-gradient(0deg, transparent 48%, #FCB900 49%, #FCB900 51%, transparent 52%); opacity: 0.1; border-radius: 15px; pointer-events: none;"></div>
-</div>
-
-<style>
-@keyframes glow {
-  from { filter: drop-shadow(0 0 20px rgba(165, 0, 68, 0.5)); }
-  to { filter: drop-shadow(0 0 30px rgba(252, 185, 0, 0.8)); }
-}
-
-@keyframes footballMove {
-  0% { opacity: 0; transform: translateX(-2px) translateY(-2px); }
-  25% { opacity: 1; transform: translateX(2px) translateY(-1px); }
-  50% { opacity: 1; transform: translateX(1px) translateY(2px); }
-  75% { opacity: 1; transform: translateX(-1px) translateY(1px); }
-  100% { opacity: 0; transform: translateX(-2px) translateY(-2px); }
-}
-
-/* Football animation for active contribution squares */
-.contribution-square.active::before {
-  content: '⚽';
-  position: absolute;
-  font-size: 8px;
-  animation: footballMove 3s ease-in-out infinite;
-}
-</style>
-```
 
 <div align="center">
-  <p><strong style="color: #A50044;">🏟️ Features:</strong></p>
-  <p>✨ <strong>Barcelona Theme:</strong> Official Blaugrana colors (#A50044, #FCB900, #004D98)</p>
-  <p>⚽ <strong>Football Animations:</strong> Dynamic footballs on active coding days</p>
-  <p>📊 <strong>Smart Levels:</strong> Gradient contributions from Barcelona red → gold → blue</p>
-  <p>🎯 <strong>Interactive:</strong> Hover effects and contribution tooltips</p>
-  <p>🏆 <strong>Stadium Design:</strong> Field lines and professional sports presentation</p>
+  
+  <!-- Barcelona Themed Contribution Visualization -->
+  <table>
+    <tr>
+      <td colspan="13" align="center">
+        <h4>🏟️ Monthly Coding Activity 🏟️</h4>
+      </td>
+    </tr>
+    <tr>
+      <th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th><th>Jan</th><th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th><th>Jul</th><th>Aug</th><th>Sep</th>
+    </tr>
+    <tr>
+      <td>⚫</td><td>🔴⚽</td><td>⚫</td><td>⚫</td><td>🟡⚽</td><td>⚫</td><td>⚫</td><td>🔵⚽</td><td>⚫</td><td>⚫</td><td>🔴⚽</td><td>🟡⚽</td><td>🔵⚽</td>
+    </tr>
+  </table>
+  
+  <!-- Custom Activity Graph with Barcelona Colors -->
+  ```
+  🏟️ K S VENKATRAM'S BARCELONA CONTRIBUTION STADIUM 🏟️
+  
+  Sep Oct Nov Dec Jan Feb Mar Apr May Jun Jul Aug Sep
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Mon
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Tue  
+  ⬛⬛🟥⬛🟨⬛⬛⬛⬛⬛🟦⬛🟥  Wed ⚽
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Thu
+  ⬛⬛⬛⬛⬛⬛🟥⬛⬛🟨⬛🟦⬛  Fri ⚽
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Sat
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛  Sun
+
+  🔴 Barcelona Red (High Activity)    ⚽ Goal Scored!
+  🟡 Barcelona Gold (Medium Activity) ⚽ Assist Made!  
+  🔵 Barcelona Blue (Low Activity)    ⚽ Pass Completed!
+  ⬛ No Activity (Bench Time)        😴 Rest Day
+  
+  📊 SEASON STATS: 157 Total Contributions
+  🥅 GOALS: 42 High Activity Days
+  🎯 ASSISTS: 28 Medium Activity Days  
+  ⚽ PASSES: 87 Low Activity Days
+  ```
+  
+  <br>
+  
+  <!-- Barcelona Stadium Visualization using Emojis -->
+  <h4>🏟️ Camp Nou - Coding Stadium Layout 🏟️</h4>
+  
+  ```
+       🔴🔴🔴🔴 GOAL! HIGH ACTIVITY 🔴🔴🔴🔴
+    🟡🟡🟡🟡🟡🟡 MIDFIELD - MEDIUM 🟡🟡🟡🟡🟡🟡
+  🔵🔵🔵🔵🔵🔵🔵 DEFENSE - LOW ACTIVITY 🔵🔵🔵🔵🔵🔵🔵
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛ BENCH - REST DAYS ⬛⬛⬛⬛⬛⬛⬛⬛⬛
+  
+            ⚽ VENKATRAM ⚽ (#10)
+      🏆 Full-Stack AI Developer 🏆
+       Més que un Programador! 
+  ```
+  
+</div>
+
+<!-- Real GitHub Activity Graph with Barcelona Theme -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkatramks&bg_color=004D98&color=FCB900&line=A50044&point=FFFFFF&area=true&hide_border=true&custom_title=⚽%20Barcelona%20Contribution%20Stadium%20⚽" width="100%"/>
+</div>
+
+<div align="center">
+  
+  <!-- Legend with Barcelona Colors -->
+  <h4>🎨 Stadium Color Guide 🎨</h4>
+  
+  | Activity Level | Color | Barcelona Element | Coding Equivalent |
+  |:--------------:|:-----:|:-----------------:|:-----------------:|
+  | 🔥 **High** | 🔴 **Red** | Home Kit | Major Projects |
+  | ⚡ **Medium** | 🟡 **Gold** | Club Crest | Feature Updates |
+  | 💪 **Low** | 🔵 **Blue** | Away Kit | Bug Fixes |
+  | 😴 **Rest** | ⚫ **Black** | Off Season | Learning Days |
+  
+  <br>
+  
+  **🏟️ Stadium Stats:**
+  - 🎯 **Formation**: 4-3-3 (Frontend-Backend-AI)
+  - ⚽ **Captain**: Python 
+  - 🥅 **Goalkeeper**: System Architecture
+  - 🏆 **Trophy Room**: 157+ Contributions
+  
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
